@@ -5,8 +5,6 @@
 This is a fan-made repository mainly for video editing!
 This is not mobile friendly.
 Crediting is not needed but would like to see it.
-Also last thing, files might be named somthing else,
-I have NO idea what there actually called.
 
 # includes
 
@@ -22,14 +20,14 @@ I have NO idea what there actually called.
 
 
 
+* Grab-Rig + Cosmetics
+<img width="761" height="751" alt="image" src="https://github.com/user-attachments/assets/5b788bd8-a5da-4133-89fd-3c795828d00e" />
 
   more soon...
 
 # Coming Soon
 
-* Music
 * Tutorials
-* Grab-Sounds
 * Grab-Blocks
 * Grab-ColoredBlock
 
